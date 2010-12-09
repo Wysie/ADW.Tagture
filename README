@@ -16,8 +16,8 @@ Usage instructions:
 	1.b-On the new project screen, select "Project from existing source" and select the theme template dir.
 	1.c-Click finish. 
 
-2.-Modify the app packagename and path (you should change if from x.x.x to your.package.name)
-	2.a-On eclipse, look into your project explorer, rightclick the x.x.x package and select "Refactor->Rename..." and follow the instructions.
+2.-Modify the app packagename and path (you should change if from org.wysie.adw_tagture to your.package.name)
+	2.a-On eclipse, look into your project explorer, rightclick the org.wysie.adw_tagture package and select "Refactor->Rename..." and follow the instructions.
 
 3.-Editing the AndroidManifest.xml:
 	3.a-EDIT ONLY the packagename AND versioncode/versionname to suit your needs.

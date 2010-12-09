@@ -1,5 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="icon_pack" translatable="false">
+    
+    	<!-- Application Icons -->
+    	<item>com_android_browser_browseractivity</item>
+    	<item>com_android_calculator2_calculator</item>
+    	<item>com_android_calendar_launchactivity</item>
+    	<item>com_android_camera_camera</item>
+    	<item>com_android_camera_videocamera</item>
+    	<item>com_android_cardock_cardockactivity</item>
+    	<item>com_android_contacts_dialtactsactivity</item>
+    	<item>com_android_contacts_dialtactscontactsentryactivity</item>
+    	<item>com_android_fm_radio_fmradio</item>
+    	<item>com_android_mms_ui_conversationlist</item>
+    	<item>com_android_music_musicbrowseractivity</item>
+    	<item>com_android_music_videobrowseractivity</item>
+    	<item>com_android_settings_settings</item>
+    	<item>com_android_vending_assetbrowseractivity</item>
+    	<item>com_android_voicedialer_voicedialeractivity</item>
+    	<item>com_cooliris_media_gallery</item>
+    	<item>com_facebook_katana_loginactivity</item>
+    	<item>com_google_android_apps_googlevoice_splashactivity</item>
+    	<item>com_google_android_gm_conversationlistactivitygmail</item>
+    	<item>com_google_android_maps_driveabout_app_destinationactivity</item>
+    	<item>com_google_android_maps_latitudeactivity</item>
+    	<item>com_google_android_maps_mapsactivity</item>
+    	<item>com_google_android_maps_placesactivity</item>
+    	<item>com_google_android_talk_signinginactivity</item>
+    	<item>com_google_android_voicesearch_recognitionactivity</item>
+    	<item>com_google_android_youtube_homeactivity</item>
+    	<item>com_koushikdutta_rommanager_rommanager</item>
+    	<item>com_levelup_touiteur_touiteurmain</item>
+    	<item>com_noshufou_android_su_su</item>
+    	<item>com_twitter_android_loginactivity</item>
     </string-array>
 </resources>
