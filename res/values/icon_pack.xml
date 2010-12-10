@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="icon_pack" translatable="false">
+    	<!-- Generic Icons -->
+    	<item>all_apps_button</item>
     
     	<!-- Application Icons -->
     	<item>com_android_browser_browseractivity</item>
