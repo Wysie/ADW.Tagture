@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
       package="org.wysie.adw_tagture"
       android:versionName="1.0"
-      android:installLocation="internalOnly" android:versionCode="2">
+      android:installLocation="internalOnly" android:versionCode="3">
 
     <uses-permission android:name="android.permission.SET_WALLPAPER" />
       

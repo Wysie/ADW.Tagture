@@ -13,6 +13,7 @@
     	<item>com_android_cardock_cardockactivity</item>
     	<item>com_android_contacts_dialtactsactivity</item>
     	<item>com_android_contacts_dialtactscontactsentryactivity</item>
+    	<item>com_android_deskclock_deskclock</item>
     	<item>com_android_fm_radio_fmradio</item>
     	<item>com_android_mms_ui_conversationlist</item>
     	<item>com_android_music_musicbrowseractivity</item>
@@ -20,7 +21,11 @@
     	<item>com_android_settings_settings</item>
     	<item>com_android_vending_assetbrowseractivity</item>
     	<item>com_android_voicedialer_voicedialeractivity</item>
+    	<item>com_arron_taskmanager_taskmanager2_ui_activities_homeactivity</item>
     	<item>com_cooliris_media_gallery</item>
+    	<item>com_dataviz_dxtg_common_launcher_android_launcheractivity</item>
+    	<item>com_dropbox_android_activity_dropboxbrowser</item>
+    	<item>com_evernote_ui_homeactivity</item>
     	<item>com_facebook_katana_loginactivity</item>
     	<item>com_google_android_apps_googlevoice_splashactivity</item>
     	<item>com_google_android_gm_conversationlistactivitygmail</item>
@@ -31,9 +36,22 @@
     	<item>com_google_android_talk_signinginactivity</item>
     	<item>com_google_android_voicesearch_recognitionactivity</item>
     	<item>com_google_android_youtube_homeactivity</item>
+    	<item>com_handcent_sms_ui_conversationexlist</item>
+    	<item>com_iridianstudio_sgbuses_homeactivity</item>
     	<item>com_koushikdutta_rommanager_rommanager</item>
     	<item>com_levelup_touiteur_touiteurmain</item>
+    	<item>com_metago_astro_filemanageractivity</item>
     	<item>com_noshufou_android_su_su</item>
+    	<item>com_pandora_android_main</item>
+    	<item>com_shazam_android_splash</item>
+    	<item>com_todoroo_astrid_activity_tasklistactivity</item>
+    	<item>com_tunewiki_lyricplayer_android_mainactivity</item>
+    	<item>com_tweetdeck_app_loginactivity</item>
     	<item>com_twitter_android_loginactivity</item>
+    	<item>com_xrath_jmsn_msnmain</item>
+    	<item>kz_mek_dialerone_dialeractivity</item>
+    	<item>net_geekherd_bedsidepro2_bedside</item>
+    	<item>uk_co_neilandtheresa_vignette_vignette</item>
+    	<item>uk_co_nickfines_realcalc_calculator</item>
     </string-array>
 </resources>
