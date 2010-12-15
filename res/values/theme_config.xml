@@ -4,11 +4,11 @@
 <string name="theme_title">ADW Tagture</string>
 <!-- To devs, read here on howto format/style your descriptions -->
 <!-- http://developer.android.com/intl/de/guide/topics/resources/string-resource.html#FormattingAndStyling -->
-<string name="theme_description">This is NOT a full-fledged theme, please use it as an icon pack instead.</string>
+<string name="theme_description">Based on the idea of sale tags, this theme is still a WIP. :)</string>
 <!-- Theme specific appearance settings -->
 <color name="bubble_color">#B2191919</color>
 <color name="bubble_text_color">#FFFFFFFF</color>
-<color name="drawer_text_color">#FFFFFFFF</color>
+<color name="drawer_text_color">#FF000000</color>
 <integer name="bubble_radius">8</integer>
 <color name="folder_title_color">#FFCCCCCC</color>
 <bool name="use_drawer_icons_bg">false</bool>
@@ -18,7 +18,7 @@
 <integer name="config_highlights_color">0x00000000</integer>
 <integer name="config_highlights_color_focus">0xffff3300</integer>
 <bool name="config_new_selectors">false</bool>
-<integer name="config_drawer_color">0x33000000</integer>
+<integer name="config_drawer_color">0x00000000</integer>
 <bool name="config_drawerLabels">true</bool>
 <bool name="config_fadeDrawerLabels">true</bool>
 <bool name="config_desktop_indicator">true</bool>

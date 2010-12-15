@@ -2,7 +2,10 @@
 <resources>
     <string-array name="icon_pack" translatable="false">
     	<!-- Generic Icons -->
+    	<item>android</item>
+    	<item>cyanogen</item>    	
     	<item>all_apps_button</item>
+    	<item>bookmark</item>
     
     	<!-- Application Icons -->
     	<item>com_android_browser_browseractivity</item>
