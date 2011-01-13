@@ -8,6 +8,10 @@
     	<item>bookmark</item>
     
     	<!-- Application Icons -->
+    	<item>au_com_phil_abduction_intro</item>
+    	<item>au_com_phil_abduction2_menus_psymintro</item>
+    	<item>angrybirds</item>
+    	<item>com_abcorganizer_lite_labellistactivity</item>
     	<item>com_android_browser_browseractivity</item>
     	<item>com_android_calculator2_calculator</item>
     	<item>com_android_calendar_launchactivity</item>
@@ -24,7 +28,9 @@
     	<item>com_android_settings_settings</item>
     	<item>com_android_vending_assetbrowseractivity</item>
     	<item>com_android_voicedialer_voicedialeractivity</item>
+    	<item>com_aol_mobile_engadget_splashscreen_splashscreen</item>
     	<item>com_arron_taskmanager_taskmanager2_ui_activities_homeactivity</item>
+    	<item>com_com2us_sliceit_wrapperactivity</item>
     	<item>com_cooliris_media_gallery</item>
     	<item>com_dataviz_dxtg_common_launcher_android_launcheractivity</item>
     	<item>com_dropbox_android_activity_dropboxbrowser</item>
@@ -39,8 +45,10 @@
     	<item>com_google_android_talk_signinginactivity</item>
     	<item>com_google_android_voicesearch_recognitionactivity</item>
     	<item>com_google_android_youtube_homeactivity</item>
+    	<item>com_google_zxing_client_android_captureactivity</item>
     	<item>com_handcent_sms_ui_conversationexlist</item>
     	<item>com_iridianstudio_sgbuses_homeactivity</item>
+    	<item>com_keramidas_titaniumbackup_mainactivity</item>
     	<item>com_koushikdutta_rommanager_rommanager</item>
     	<item>com_levelup_touiteur_touiteurmain</item>
     	<item>com_metago_astro_filemanageractivity</item>
